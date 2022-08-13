@@ -1,5 +1,5 @@
 ## 🔗Project 6 Link
-https://html5-css3-project-05.netlify.app/
+https://html5-css3-project-06.netlify.app/
 
 
 ## ✨ Project-6: Plant Home Page ✨
