@@ -1,6 +1,5 @@
 ## 🔗Project Link
-https://html5-css3-project-06.netlify.app/
-
+https://plant-home-site.vercel.app/
 
 ## ✨ Project-6: Plant Home Page ✨
 
