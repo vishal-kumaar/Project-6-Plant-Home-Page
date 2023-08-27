@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://plant-home-site.vercel.app/
+https://vishal-kumaar.github.io/Project-6-Plant-Home-Page/
 
 ## ✨ Project-6: Plant Home Page ✨
 
